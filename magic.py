@@ -45,7 +45,7 @@ while True:
     time.sleep(zzz)
     main()
     
-    
+# hey guys I really did try to merge our code but I guess i didn't understand nearly enough about how it would all work together. It seems as though the output wants some information we don't have and doesn't even need the information we do get. Maybe I'm seeing things wrong but I can't figure out how it would all work together.    
 
 
 
